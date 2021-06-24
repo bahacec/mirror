@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mirror-telegram-bot",
+  "private_key_id": "b030cbb0de88908af19890eb718ae271cc1e4eb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyu1hyd238/OM+\nGAwKCisGRVQzLEebIU7annR0d6Gl8/LJQ20BL+udquxFA9KsCKILHPKfsb3T5LwB\nikyJcMeJMeUwRwukLTUj3H02CspTAjhG9KHcbCWJcpXJEV0MsxLIHGZeY4QyDyS6\ntCBG/OWp/1HPQLAtwdM/r1hfJGUdEong5gT2Cy7gqeNEvjqHyFQQPymVDyHwbL5e\nhsJ0SonFNItHkmCvxbZ0ua6B6XbNgJZiBG3Utlwc4dKGAV25EVqncF6qBQFE6ADZ\nlGemwdl6+2vfNYJWpM/cuMVeS6TeNwBIEW824y1NXWVEUd6EOuiBFlqGPCOJ4s89\nr87zSedhAgMBAAECggEAA0BbYDEiJSmvIOPVhxc6Z9rellQD9SyRcbuu618xeflP\nL7lmf3U+yGVGZJ/fZL7IUQK5TTJED7T1mb5t+Cb123BJJGwwumGkcJ8RtzFSDxBg\nfP8Z2UV2qaKDpAytmXKdXqOQepqrR+fZVUYpcigCCUWVs8RG/eqsrDNp5aQLo7TL\nVg874n7PrmmaM5EmMzCjsZ4+XZKoZCcjB4P++fTRZA1MSzrp1NGFK1pJ4+I/WntM\n09r1zNoqZmtTX6aeULIvdORzfXeMmaSGCefqxhAc/DccIRJBm+eWQ7/6o/V1/tYz\nYejGGGw576rFgYKHa0TD0ujXh2kKlqYJR89DAkizywKBgQDhet+A68HODyRWXDeR\nu/J2GgdUb4Cqw6YZfsiM3VcBcJUw9RoNu1PBGWn9SO1+GBDsYTMHraOzEga/6vVH\nDR+LlLuPjpCYApq8/2qbZ6iQC3CHQphbjoiOYd46NfedS3URucMuBm9injJiRjGX\n9Gxs+lDjPZWTWyuqWoTGM5rBnwKBgQDK7JkQMSfzRnS/Ih7ASC5j1Z+v4pJ58haX\nLOqZHDu2pbuy+5lsu834qo3tGCHZuTzUiBxOINKOadbOqkOKkmBr7e5hhbSJ4wtG\nPqJUBO6jUftdzSLPiZkk7PWLxN9tdVv3Zbwd7pHOmldI7t99UH/bgJ21cGASY376\nSCwpgAS2/wKBgQCbSzY+I6GyWulq9U5sd+axApJDzBvxAJkYfCKCKjuvSSvnsRfF\nl1xC5U8DXEP9kXOuae9sfWH+hg7SBW/zBI3SY5iecdEScNDEFKIG8Gi+9LIG5o3q\nmQtiDPOyYdLtqbeygp9zxojWgiAvYSrs/jHjCK/HInYvLB6x0HAb1hTi/wKBgDir\nRjuNXrjDjkrqPmg4QCxFNikqPvmrL7/cHU/Q4KQrOHXNaZVCBU1SY/w4ZwukfWZk\n9HKlG+gFiqWASwhhxGeftJirfDWdoEJnr3GDRxl5BZe2d+g5Zvk264Oy4SpyQdKf\nKJ+7RiDKXWHSw7r9RheInYJT9aBtBMLkcODODYMFAoGBALaLC5vKee3TlUn9gsiS\nEsRHTeTv9n8/bdXzCbGfidfFSIytteu41U7BBKLebYeZ+AGj9XgteB969G/B13RY\n2bzGJIK/Iem1goRcE7u5cIJ9X67xvJakeXH5NzDFAf5ouewYCtVUCLwP/Q+SNbTe\nOrKAXfNxdx53IkQig4oTaVNn\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-if2j6ck2keq89mwnmk8jc4mo9j@mirror-telegram-bot.iam.gserviceaccount.com",
+  "client_id": "106408200435791889428",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-if2j6ck2keq89mwnmk8jc4mo9j%40mirror-telegram-bot.iam.gserviceaccount.com"
+}
